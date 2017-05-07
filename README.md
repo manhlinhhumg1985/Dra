@@ -20,7 +20,7 @@
             }
         }
 ```
-* Tương tự khi i > h thì cặp các số dư mà (j % width ) nhận được cũng giảm dần từ (0 || 4), (1 || 3),(2 || 2)  khi h < i < H-1 được thực hiện bởi đoạn code như sau:
+* Để vẽ nửa dưới ( khi i > h) thì cặp các số dư mà (j % width ) nhận được cũng giảm dần từ (0 || 4), (1 || 3),(2 || 2)  khi h < i < H-1 được thực hiện bởi đoạn code như sau:
 ``` javascript
     else {
             let dem=0;
