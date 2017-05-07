@@ -37,6 +37,9 @@
         }    
 ```
 * Sau mỗi lần tăng biến i thì lại gán chuỗi bằng rỗng để tiếp tục thực hiện vòng lặp mới
+## Cách chạy chương trình
+* npm install caporal --save
+* chạy lệnh sau từ terminal: node draw.js Draw 7 7 
 ## Kết quả ứng với các trường hợp tham số đầu vào khác nhau:
 
 ``` javascript   
